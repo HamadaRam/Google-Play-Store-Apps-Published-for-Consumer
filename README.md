@@ -5,7 +5,6 @@ Analyzing the Impact of Application’s Attributes on Popularity and Reputation
 
 These are the questions that this project is trying to solve:
 - Which Content Rating (everyone, teens, and others) has the highest number of installs based on their type (Free, Paid)?  (Content Rating, Installation, Type)  [Descriptive]
-
 - Which Genres have the highest & lowest number of installs based on their type (Free, Paid)? (Genres, Installation, Type)  [Descriptive]
 - Can we predict the number of installations (Install) of an app based on its app category, rating, and content rating using machine learning techniques? (Install, Category, Rating, Content Rating)  [Predictive]
 - Can we classify apps into different types (free, paid) based on their category, rating, content rating, and size? (Type, Category, Rating, Content Rating, Size)  [Predictive]
